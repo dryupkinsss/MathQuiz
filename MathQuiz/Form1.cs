@@ -127,6 +127,7 @@ namespace MathQuiz
                 // отсчет продолжается.
                 timeLeft = timeLeft - 1;
                 timeLabel.Text = timeLeft + " seconds";
+                // Когда на таймере остается 5 сек, он меняет цвет на красный.
                 if (timeLeft == 5)
                     timeLabel.BackColor = Color.Red;
             }
