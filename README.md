@@ -1,6 +1,5 @@
 # MathQuiz
 Project
-
 - Создание проекта Visual Studio, использующего Windows Forms
 - Добавление меток, кнопки и элементов управления NumericUpDown
 - Добавление таймера
